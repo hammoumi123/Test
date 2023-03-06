@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "dn7aPIc3r8KjIfhD0zYunR4Yi4EDmenT+Ed1eL+Eru9Qcleyry5MKCK8RgX6pQ2YA1Top9NcaOfkeIPTW82UzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hammoua\\OneDrive - Hastings Insurance Services Ltd\\Documents\\GitHub\\Web_Abi\\CapstoneProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hammoua\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\hammoua\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hammoua\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\hammoua\\.nuget\\packages\\serilog\\2.12.0\\serilog.2.12.0.nupkg.sha512",
+    "C:\\Users\\hammoua\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\hammoua\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\hammoua\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\hammoua\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
